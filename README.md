@@ -1,4 +1,4 @@
-# Arithematic_Encoding_-_Decoding_Using_MATLAB
+# Arithmetic_Encoding_-_Decoding_Using_MATLAB
 INTRODUCTION
 Arithmetic coding is a form of entropy encoding used in lossless data compression. Normally, a string of characters such as the words "hello there" is represented using a fixed number of bits per character.
 
